@@ -6,4 +6,4 @@ pillow
 pytesseract
 gtts
 pygame
-
+gunicorn
