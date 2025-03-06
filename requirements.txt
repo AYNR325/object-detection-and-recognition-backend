@@ -7,3 +7,4 @@ pytesseract
 gtts
 pygame
 gunicorn
+flask_cors
